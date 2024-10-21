@@ -356,7 +356,10 @@
 -analyzer:"E:/2022.3.49f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"E:/2022.3.49f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/driver.cs"
+"Assets/gametag.cs"
 "Assets/move.cs"
+"Assets/playerdr.cs"
+"Assets/playerstatus.cs"
 -langversion:9.0
 /deterministic
 /optimize+
