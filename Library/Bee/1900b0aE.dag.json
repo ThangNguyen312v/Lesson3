@@ -365,7 +365,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 107,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -391,7 +391,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 38566,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.rsp2"
@@ -2498,7 +2498,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 46480,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -2524,7 +2524,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 79451,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp2"
@@ -3190,7 +3190,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 87903,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt"
@@ -3216,7 +3216,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 132298,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp2"
@@ -3893,7 +3893,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 140378,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt"
@@ -3919,7 +3919,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 170367,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp2"
@@ -4502,7 +4502,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 179152,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt"
@@ -4528,7 +4528,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 206625,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.rsp2"
@@ -5064,7 +5064,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 215513,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt"
@@ -5090,7 +5090,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 245754,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp2"
@@ -5637,7 +5637,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 254636,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt"
@@ -5663,7 +5663,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 313246,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp2"
@@ -6466,7 +6466,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 321654,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt"
@@ -6492,7 +6492,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 351467,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp2"
@@ -7026,7 +7026,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 359786,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt"
@@ -7052,7 +7052,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 387950,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.rsp2"
@@ -7579,7 +7579,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 396840,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt"
@@ -7605,7 +7605,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 425823,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2"
@@ -8134,7 +8134,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 434753,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt"
@@ -8160,7 +8160,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 462540,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2"
@@ -8678,7 +8678,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 471436,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -8704,7 +8704,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 502566,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp2"
@@ -9262,7 +9262,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 511165,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -9288,7 +9288,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 543322,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp2"
@@ -9860,7 +9860,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 551923,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt"
@@ -9886,7 +9886,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 579736,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.rsp2"
@@ -10408,7 +10408,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 588599,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -10434,7 +10434,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 668275,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.rsp2"
@@ -11362,7 +11362,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 676894,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt"
@@ -11388,7 +11388,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 707004,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp2"
@@ -11927,7 +11927,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 715333,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt"
@@ -11953,7 +11953,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 742593,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp2"
@@ -12490,7 +12490,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 751555,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt"
@@ -12516,7 +12516,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 783040,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp2"
@@ -13125,7 +13125,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 791698,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt"
@@ -13151,7 +13151,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 823275,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp2"
@@ -13735,7 +13735,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 832217,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt"
@@ -13761,7 +13761,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 883403,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp2"
@@ -14569,7 +14569,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 892351,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt"
@@ -14595,7 +14595,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 976029,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp2"
@@ -15601,7 +15601,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 984994,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -15627,7 +15627,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1059973,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp2"
@@ -16532,7 +16532,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1068688,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt"
@@ -16558,7 +16558,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1116224,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp2"
@@ -17289,7 +17289,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1125373,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -17315,7 +17315,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1154733,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.rsp2"
@@ -17853,7 +17853,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1163549,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt"
@@ -17879,7 +17879,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1192314,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp2"
@@ -18459,7 +18459,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1201666,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt"
@@ -18485,7 +18485,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1237178,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.rsp2"
@@ -19087,7 +19087,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1246520,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt"
@@ -19113,7 +19113,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1274246,
       "PayloadLength": 23,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Hoctap1\"=.",
+      "PayloadDebugContentSnippet": "/pathmap:\"E:\\Lesson3\"=.",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp2"
@@ -19670,7 +19670,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1283665,
       "PayloadLength": 10,
-      "PayloadDebugContentSnippet": "E:\\Hoctap1",
+      "PayloadDebugContentSnippet": "E:\\Lesson3",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -19682,7 +19682,7 @@
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
       "PayloadOffset": 1283761,
-      "PayloadLength": 26291,
+      "PayloadLength": 26357,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -19694,7 +19694,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1310139,
+      "PayloadOffset": 1310205,
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -19942,7 +19942,10 @@
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll",
         "Assets/driver.cs",
+        "Assets/gametag.cs",
         "Assets/move.cs",
+        "Assets/playerdr.cs",
+        "Assets/playerstatus.cs",
         "E:/2022.3.49f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "E:/2022.3.49f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp"
@@ -20181,7 +20184,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1310235,
+      "PayloadOffset": 1310301,
       "PayloadLength": 9606,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -21271,7 +21274,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
-      "Action": "\"E:/2022.3.49f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"E:/2022.3.49f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"E:\\Hoctap1\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"E:\\Hoctap1\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"E:\\Hoctap1\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"E:\\Hoctap1\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"E:\\Hoctap1\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"E:\\Hoctap1\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"E:\\Hoctap1\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"E:\\Hoctap1\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"E:\\Hoctap1\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"E:\\Hoctap1\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"E:\\Hoctap1\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"E:\\2022.3.49f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"E:\\2022.3.49f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"E:\\2022.3.49f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"E:\\2022.3.49f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"E:\\2022.3.49f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"E:\\Hoctap1\\Library\\ScriptAssemblies\" -s=\"E:\\Hoctap1\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"E:\\Hoctap1\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\" -s=\"E:\\Hoctap1\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"E:/2022.3.49f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"E:/2022.3.49f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"E:\\Lesson3\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"E:\\Lesson3\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"E:\\Lesson3\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"E:\\Lesson3\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"E:\\Lesson3\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"E:\\Lesson3\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"E:\\Lesson3\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"E:\\Lesson3\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"E:\\Lesson3\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"E:\\Lesson3\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"E:\\Lesson3\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"E:\\2022.3.49f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"E:\\2022.3.49f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"E:\\2022.3.49f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"E:\\2022.3.49f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"E:\\2022.3.49f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"E:\\Lesson3\\Library\\ScriptAssemblies\" -s=\"E:\\Lesson3\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"E:\\Lesson3\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.6\\lib\\ReportGenerator\" -s=\"E:\\Lesson3\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "E:/2022.3.49f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "E:/2022.3.49f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -21557,6 +21560,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1900b0aE.dag.json",
-  "PayloadsFile": "E:/Hoctap1/Library/Bee/1900b0aE.dag.payloads",
+  "PayloadsFile": "E:/Lesson3/Library/Bee/1900b0aE.dag.payloads",
   "RelativePathToRoot": "../.."
 }

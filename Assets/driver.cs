@@ -5,6 +5,7 @@ using UnityEngine;
 public class driver : MonoBehaviour
 {
     public float Speed = 10f;
+    public float turnSpeed = 100.0f;
 
     public TargetEnum nextTarget;
 
@@ -20,6 +21,7 @@ public class driver : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
         MoveToTarget();
     }
     public enum TargetEnum
@@ -50,7 +52,11 @@ public class driver : MonoBehaviour
     void MoveToTarget()
     {
         Vector3 direction = (targetPosition - transform.position).normalized;
-        transform.Translate(direction * Speed * Time.deltaTime, Space.World);
+        Quaternion targetRotation = Quaternion.LookRotation(direction);
+
+        transform.rotation = Quaternion.RotateTowards(transform.rotation, targetRotation, turnSpeed * Time.deltaTime);
+
+        transform.Translate(Vector3.forward * Speed * Time.deltaTime);
 
         if (Vector3.Distance(transform.position, targetPosition) < 0.1f)
         {
